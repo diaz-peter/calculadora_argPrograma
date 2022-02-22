@@ -5,6 +5,13 @@ table {
     width: 100%;
     font-size: 150%;
   }
+
+  button:hover {
+    color: rgba(255, 255, 255, 1) !important;
+    box-shadow: 0 4px 16px rgb(41, 145, 88);
+    transition: all 0.2s ease;
+  }
+
   .ac {
     color: rgb(0, 255, 85);
   }
