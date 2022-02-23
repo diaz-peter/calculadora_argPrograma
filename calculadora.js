@@ -1,3 +1,4 @@
+alert("Bienvenidos a mi Calculadora por favor deja una estrella en el Repositorio")
 function setResult(value) {
     document.getElementById('result').innerHTML = value;
 }
