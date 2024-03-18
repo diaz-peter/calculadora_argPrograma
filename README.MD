@@ -1,2 +1,2 @@
 Calculadora hecha en HTMl, CSS y JAVASCRIPT
-https://diazpeter.github.io/calculadora_argPrograma/
+https://diaz-peter.github.io/calculadora_argPrograma/
